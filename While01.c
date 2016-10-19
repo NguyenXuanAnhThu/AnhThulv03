@@ -13,5 +13,5 @@ void main()
         b=k;
     }
       printf("uoc chung lon nhat=%d",a);
-
+ getch ();
 }
